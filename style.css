@@ -24,6 +24,20 @@ input {
     margin-bottom: calc(var(--base-size) / 2);
 }
 
+.output {
+    margin-bottom: calc(var(--base-size) / 2);
+    background: lightskyblue;
+    font-weight: bold;
+    float: right;
+    color: #57727C;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 5px 15px;
+  border-top: 1px solid #D7DBDD;
+  background-color: #EEF3F5;
+}
+
+
 button {
 
 }
